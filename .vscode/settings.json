@@ -1,0 +1,6 @@
+{
+  "notebook.formatOnSave.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always"
+  }
+}
